@@ -1,4 +1,4 @@
-# PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics
+# GaussianFluent: Explicit Gaussian Simulation for Dynamic Object States with Mixed Materials
 
 The source code of this website is borrowed from [nerfies](https://github.com/nerfies/nerfies.github.io). We thank the authors for sharing the template.
 
